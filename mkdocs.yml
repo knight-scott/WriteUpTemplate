@@ -16,7 +16,7 @@ theme:
     # logo: fontawesome/solid/chess-knight
     logo: fontawesome/regular/chess-knight
   name: material
-  favicon: img/misc/favicon.ico
+  favicon: img/misc/knight_logo.ico
   features:
     - toc.integrate
     - content.code.copy
