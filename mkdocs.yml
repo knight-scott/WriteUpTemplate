@@ -1,6 +1,6 @@
 # Reference: https://squidfunk.github.io/mkdocs-material/reference/
-site_name: SANS HHC Write-Up
-site_author: Insert Author name
+site_name: <Insert Title> Write-Up
+site_author: Author Name
 theme:
   icon:
     # Material for MkDocs bundles several icon sets:
@@ -12,7 +12,9 @@ theme:
     # logo: fontawesome/regular/snowflake
     # logo: fontawesome/solid/sleigh
     # logo: fontawesome/solid/candy-cane
-    logo: fontawesome/solid/tree
+    # logo: fontawesome/solid/tree
+    # logo: fontawesome/solid/chess-knight
+    logo: fontawesome/regular/chess-knight
   name: material
   favicon: img/misc/favicon.ico
   features:
