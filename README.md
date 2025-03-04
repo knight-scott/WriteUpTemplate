@@ -2,7 +2,7 @@
 
 ## About
 
-This is the template I've modified from [crahan's](https://github.com/crahan) [HolidayHackChallengeTemplate](https://github.com/crahan/HolidayHackChallengeTemplate/). While the original is holiday and CTF competition specific, the genral idea and formatting is applicable to any number of reporting scenarios. I hope to utilize this better for creating ongoing reports of CTF challenges I compete in. It's based on [MkDocs](https://www.mkdocs.org) and the [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) theme. 
+This is the template I've modified from [crahan's](https://github.com/crahan) [HolidayHackChallengeTemplate](https://github.com/crahan/HolidayHackChallengeTemplate/). While the original is holiday and CTF competition specific, the general idea and formatting is applicable to any number of reporting scenarios. I hope to utilize this better for creating ongoing reports of CTF challenges I compete in. It's based on [MkDocs](https://www.mkdocs.org) and the [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) theme. 
 
 ## Setup
 
