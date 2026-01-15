@@ -46,3 +46,14 @@ git remote add public git@github.com:<your-username>/<public-repository-name>.gi
 git push public gh-pages
 ```
 You can then continue the instructions above to serve the HTML content as a website.
+
+# Examples
+
+Examples of reports I've made with this template and their repositories can be found at:
+
+| Report website                                                                 | GitHub repository                                              |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [Snowmaggedon-2024](https://knight-scott.github.io/Snowmaggedon-2024/)         | https://github.com/knight-scott/Snowmaggedon-2024              |
+| [OWASP Top 10](https://knight-scott.github.io/TryHackMe-OWASP-Top-10-WriteUp/) | https://github.com/knight-scott/TryHackMe-OWASP-Top-10-WriteUp |
+| [picoCTF 2025](https://knight-scott.github.io/picoCTF-2025/)                   | https://github.com/knight-scott/picoCTF-2025                   |
+| [SANS Holiday Hack Challenge - 2025](https://knight-scott.github.io/HHC_2025/) | https://github.com/knight-scott/HHC_2025.git                   |
